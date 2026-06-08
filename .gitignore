@@ -1,0 +1,12 @@
+.env
+.env.*
+
+# Local tooling and temp artifacts
+.vscode/
+.tmp*
+.tmp_mobile_screens/
+
+# Runtime data
+logs/
+uploads/
+*.log
